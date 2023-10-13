@@ -40,7 +40,7 @@ module.exports = {
         },
         backgroundImage: {
           'hero-pattern':
-            "url('https://i.ibb.co/MkvLDfb/Rectangle-4389.png')",
+            "url('https://img.freepik.com/vetores-premium/estresse-no-trabalho-sobrecarregado-cansado-de-trabalhar-demais-para-terminar-a-papelada-do-projeto-na-ansiedade-do-prazo_566886-6146.jpg?w=2000')",
         },
       },
     },
